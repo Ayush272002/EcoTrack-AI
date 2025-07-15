@@ -245,7 +245,7 @@ export default function ChatPage() {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.3 }}
                 >
-                  EcoFinAI Assistant
+                  Carbon &Sons
                 </motion.h1>
                 <motion.p
                   className="text-sm text-gray-500 flex items-center space-x-1"

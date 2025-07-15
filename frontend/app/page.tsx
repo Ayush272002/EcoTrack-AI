@@ -16,6 +16,7 @@ import {
 import NeuralNetwork from "@/components/NeuralNetwork";
 import StatsSection from "@/components/StatsSection";
 import FeatureCard from "@/components/FeatureCard";
+import { useRouter } from "next/navigation";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
@@ -32,6 +33,8 @@ const staggerContainer = {
 };
 
 export default function LandingPage() {
+  const router = useRouter();
+
   return (
     <div className="min-h-screen bg-white text-gray-900 overflow-hidden">
       {/* Navigation */}
@@ -58,12 +61,6 @@ export default function LandingPage() {
               className="text-gray-700 hover:text-[#00aeef] transition-colors"
             >
               Benefits
-            </a>
-            <a
-              href="#pricing"
-              className="text-gray-700 hover:text-[#00aeef] transition-colors"
-            >
-              Pricing
             </a>
             <Button
               variant="outline"
@@ -125,18 +122,12 @@ export default function LandingPage() {
           >
             <Button
               size="lg"
-              className="px-8 py-4 text-lg text-white"
+              className="px-8 py-4 text-lg text-white cursor-pointer"
               style={{ backgroundColor: "#00aeef" }}
+              onClick={() => router.push("/chat")}
             >
-              Start Free Trial
+              Start Now
               <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button
-              variant="outline"
-              size="lg"
-              className="border-gray-300 text-gray-700 hover:bg-gray-50 px-8 py-4 text-lg bg-transparent"
-            >
-              Watch Demo
             </Button>
           </motion.div>
 
@@ -336,8 +327,9 @@ export default function LandingPage() {
           </p>
           <Button
             size="lg"
-            className="px-12 py-6 text-xl text-white"
+            className="px-12 py-6 text-xl text-white cursor-pointer"
             style={{ backgroundColor: "#00aeef" }}
+            onClick={() => router.push("/chat")}
           >
             Start Your Free Trial Today
             <ArrowRight className="ml-3 h-6 w-6" />
