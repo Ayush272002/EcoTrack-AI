@@ -2,11 +2,14 @@ FROM node:22.12.0
 
 WORKDIR /app
 
-COPY package* .
-
-COPY . .
+COPY package*.json ./
 
 RUN npm install
+
+# Install TypeScript globally for building
+RUN npm install -g typescript
+
+COPY . .
 
 RUN npm run build
 
