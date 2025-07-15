@@ -7,7 +7,7 @@
         "Amount": 104.84,
         "Payment Method": "Mobile Payment",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -18,7 +18,7 @@
         "Amount": 118.01,
         "Payment Method": "Cash",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -29,7 +29,7 @@
         "Amount": 4.77,
         "Payment Method": "Cash",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -40,7 +40,7 @@
         "Amount": 179.29,
         "Payment Method": "Mobile Payment",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -51,7 +51,7 @@
         "Amount": 12.83,
         "Payment Method": "Cash",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -62,7 +62,7 @@
         "Amount": 46.62,
         "Payment Method": "Card",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -73,7 +73,7 @@
         "Amount": 188.69,
         "Payment Method": "Mobile Payment",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -84,7 +84,7 @@
         "Amount": 16.48,
         "Payment Method": "Card",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -95,7 +95,7 @@
         "Amount": 157.8,
         "Payment Method": "Mobile Payment",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -106,7 +106,7 @@
         "Amount": 66.19,
         "Payment Method": "Mobile Payment",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -117,7 +117,7 @@
         "Amount": 75.66,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -128,7 +128,7 @@
         "Amount": 59.09,
         "Payment Method": "Cash",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -139,7 +139,7 @@
         "Amount": 37.61,
         "Payment Method": "Mobile Payment",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -150,7 +150,7 @@
         "Amount": 82.01,
         "Payment Method": "Card",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -161,7 +161,7 @@
         "Amount": 76.94,
         "Payment Method": "Cash",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -172,7 +172,7 @@
         "Amount": 104.6,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -183,7 +183,7 @@
         "Amount": 144.5,
         "Payment Method": "Mobile Payment",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -194,7 +194,7 @@
         "Amount": 161.33,
         "Payment Method": "Card",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -205,7 +205,7 @@
         "Amount": 104.39,
         "Payment Method": "Mobile Payment",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -216,7 +216,7 @@
         "Amount": 66.84,
         "Payment Method": "Mobile Payment",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -227,7 +227,7 @@
         "Amount": 98.76,
         "Payment Method": "Mobile Payment",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -238,7 +238,7 @@
         "Amount": 93.7,
         "Payment Method": "Mobile Payment",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -249,7 +249,7 @@
         "Amount": 58.97,
         "Payment Method": "Cash",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -260,7 +260,7 @@
         "Amount": 30.46,
         "Payment Method": "Mobile Payment",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -271,7 +271,7 @@
         "Amount": 33.06,
         "Payment Method": "Cash",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -282,7 +282,7 @@
         "Amount": 77.82,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -293,7 +293,7 @@
         "Amount": 102.29,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -304,7 +304,7 @@
         "Amount": 137.69,
         "Payment Method": "Mobile Payment",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -315,7 +315,7 @@
         "Amount": 150.49,
         "Payment Method": "Card",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -326,7 +326,7 @@
         "Amount": 97.09,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -337,7 +337,7 @@
         "Amount": 135.49,
         "Payment Method": "Card",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -348,7 +348,7 @@
         "Amount": 58.71,
         "Payment Method": "Card",
         "Location": "Boots, 40 Strand, WC2N 5PH",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -359,7 +359,7 @@
         "Amount": 134.74,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -370,7 +370,7 @@
         "Amount": 178.42,
         "Payment Method": "Cash",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -381,7 +381,7 @@
         "Amount": 8.41,
         "Payment Method": "Card",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -392,7 +392,7 @@
         "Amount": 169.61,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -403,7 +403,7 @@
         "Amount": 106.7,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -414,7 +414,7 @@
         "Amount": 1.81,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -425,7 +425,7 @@
         "Amount": 35.87,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -436,7 +436,7 @@
         "Amount": 130.13,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -447,7 +447,7 @@
         "Amount": 118.59,
         "Payment Method": "Mobile Payment",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -458,7 +458,7 @@
         "Amount": 180.49,
         "Payment Method": "Card",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -469,7 +469,7 @@
         "Amount": 192.01,
         "Payment Method": "Mobile Payment",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -480,7 +480,7 @@
         "Amount": 88.71,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -491,7 +491,7 @@
         "Amount": 147.69,
         "Payment Method": "Card",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -502,7 +502,7 @@
         "Amount": 168.14,
         "Payment Method": "Mobile Payment",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -513,7 +513,7 @@
         "Amount": 148.24,
         "Payment Method": "Mobile Payment",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -524,7 +524,7 @@
         "Amount": 99.02,
         "Payment Method": "Mobile Payment",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -535,7 +535,7 @@
         "Amount": 75.56,
         "Payment Method": "Card",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -546,7 +546,7 @@
         "Amount": 117.67,
         "Payment Method": "Card",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -557,7 +557,7 @@
         "Amount": 182.37,
         "Payment Method": "Cash",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -568,7 +568,7 @@
         "Amount": 134.27,
         "Payment Method": "Card",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -579,7 +579,7 @@
         "Amount": 56.27,
         "Payment Method": "Cash",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -590,7 +590,7 @@
         "Amount": 116.55,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -601,7 +601,7 @@
         "Amount": 30.91,
         "Payment Method": "Mobile Payment",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -612,7 +612,7 @@
         "Amount": 119.05,
         "Payment Method": "Cash",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -623,7 +623,7 @@
         "Amount": 97.91,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -634,7 +634,7 @@
         "Amount": 26.67,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -645,7 +645,7 @@
         "Amount": 170.4,
         "Payment Method": "Card",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -656,7 +656,7 @@
         "Amount": 180.95,
         "Payment Method": "Card",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -667,7 +667,7 @@
         "Amount": 194.09,
         "Payment Method": "Mobile Payment",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -678,7 +678,7 @@
         "Amount": 6.95,
         "Payment Method": "Cash",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -689,7 +689,7 @@
         "Amount": 11.73,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -700,7 +700,7 @@
         "Amount": 142.78,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -711,7 +711,7 @@
         "Amount": 178.97,
         "Payment Method": "Card",
         "Location": "Boots, 40 Strand, WC2N 5PH",
-        "CO\u2082 Emissions (kg)": 95.0,
+        "CO Emissions (kg)": 95.0,
         "Emission Source": "Air travel"
     },
     {
@@ -722,7 +722,7 @@
         "Amount": 47.88,
         "Payment Method": "Mobile Payment",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -733,7 +733,7 @@
         "Amount": 94.4,
         "Payment Method": "Cash",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -744,7 +744,7 @@
         "Amount": 124.05,
         "Payment Method": "Mobile Payment",
         "Location": "Boots, 40 Strand, WC2N 5PH",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -755,7 +755,7 @@
         "Amount": 172.19,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -766,7 +766,7 @@
         "Amount": 148.12,
         "Payment Method": "Mobile Payment",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -777,7 +777,7 @@
         "Amount": 138.59,
         "Payment Method": "Cash",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -788,7 +788,7 @@
         "Amount": 161.63,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -799,7 +799,7 @@
         "Amount": 77.98,
         "Payment Method": "Card",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -810,7 +810,7 @@
         "Amount": 126.44,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -821,7 +821,7 @@
         "Amount": 192.93,
         "Payment Method": "Card",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -832,7 +832,7 @@
         "Amount": 110.35,
         "Payment Method": "Card",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -843,7 +843,7 @@
         "Amount": 143.27,
         "Payment Method": "Card",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -854,7 +854,7 @@
         "Amount": 179.55,
         "Payment Method": "Card",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -865,7 +865,7 @@
         "Amount": 97.07,
         "Payment Method": "Mobile Payment",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -876,7 +876,7 @@
         "Amount": 164.66,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.2,
+        "CO Emissions (kg)": 0.2,
         "Emission Source": "Public transport"
     },
     {
@@ -887,7 +887,7 @@
         "Amount": 41.63,
         "Payment Method": "Cash",
         "Location": "Tesco Express, 10 Baker St, W1U 3BW",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -898,7 +898,7 @@
         "Amount": 3.56,
         "Payment Method": "Mobile Payment",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -909,7 +909,7 @@
         "Amount": 151.82,
         "Payment Method": "Mobile Payment",
         "Location": "Boots, 40 Strand, WC2N 5PH",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -920,7 +920,7 @@
         "Amount": 177.95,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 6.8,
+        "CO Emissions (kg)": 6.8,
         "Emission Source": "Private vehicle"
     },
     {
@@ -931,7 +931,7 @@
         "Amount": 133.72,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -942,7 +942,7 @@
         "Amount": 86.49,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 0.9,
+        "CO Emissions (kg)": 0.9,
         "Emission Source": "Consumer goods"
     },
     {
@@ -953,7 +953,7 @@
         "Amount": 84.79,
         "Payment Method": "Cash",
         "Location": "EDF Energy, 40 Grosvenor Pl, SW1X 7EN",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -964,7 +964,7 @@
         "Amount": 72.51,
         "Payment Method": "Mobile Payment",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -975,7 +975,7 @@
         "Amount": 196.58,
         "Payment Method": "Card",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 0.4,
+        "CO Emissions (kg)": 0.4,
         "Emission Source": "Beverage"
     },
     {
@@ -986,7 +986,7 @@
         "Amount": 182.78,
         "Payment Method": "Mobile Payment",
         "Location": "Sainsbury's, 99 Camden Rd, NW1 9EY",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -997,7 +997,7 @@
         "Amount": 154.39,
         "Payment Method": "Mobile Payment",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 15.0,
+        "CO Emissions (kg)": 15.0,
         "Emission Source": "Energy usage"
     },
     {
@@ -1008,7 +1008,7 @@
         "Amount": 119.93,
         "Payment Method": "Cash",
         "Location": "Apple Store, 235 Regent St, W1B 2EL",
-        "CO\u2082 Emissions (kg)": 0.6,
+        "CO Emissions (kg)": 0.6,
         "Emission Source": "Plant-based food item"
     },
     {
@@ -1019,7 +1019,7 @@
         "Amount": 137.2,
         "Payment Method": "Mobile Payment",
         "Location": "Costa Coffee, 89 Tottenham Ct Rd, W1T 4PB",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -1030,7 +1030,7 @@
         "Amount": 179.42,
         "Payment Method": "Card",
         "Location": "Shell Petrol Station, 501 Holloway Rd, N7 6JF",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -1041,7 +1041,7 @@
         "Amount": 196.94,
         "Payment Method": "Card",
         "Location": "Heathrow Airport, Longford TW6",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -1052,7 +1052,7 @@
         "Amount": 96.95,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 4.5,
+        "CO Emissions (kg)": 4.5,
         "Emission Source": "Textile production"
     },
     {
@@ -1063,7 +1063,7 @@
         "Amount": 109.48,
         "Payment Method": "Card",
         "Location": "Boots, 40 Strand, WC2N 5PH",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -1074,7 +1074,7 @@
         "Amount": 86.88,
         "Payment Method": "Card",
         "Location": "Primark, 14-28 Oxford St, W1D 1AU",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     },
     {
@@ -1085,7 +1085,7 @@
         "Amount": 45.27,
         "Payment Method": "Cash",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 120.0,
+        "CO Emissions (kg)": 120.0,
         "Emission Source": "Manufacturing"
     },
     {
@@ -1096,7 +1096,7 @@
         "Amount": 101.19,
         "Payment Method": "Mobile Payment",
         "Location": "Asda, 145 Old Kent Rd, SE1 5EW",
-        "CO\u2082 Emissions (kg)": 1.25,
+        "CO Emissions (kg)": 1.25,
         "Emission Source": "Meat-based food item"
     }
 ]
