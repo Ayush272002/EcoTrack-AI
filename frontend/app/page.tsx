@@ -237,7 +237,7 @@ export default function LandingPage() {
                     desc: "Make environmentally conscious purchases with AI guidance",
                   },
                   {
-                    title: "Save $2,400+ Annually",
+                    title: "Save £2,400+ Annually",
                     desc: "Optimize spending with intelligent financial recommendations",
                   },
                   {
@@ -292,7 +292,7 @@ export default function LandingPage() {
                   <div className="flex items-center justify-between p-4 bg-white/80 rounded-lg shadow-sm border border-gray-200">
                     <span className="text-gray-700">Financial Savings</span>
                     <span className="font-bold" style={{ color: "#00aeef" }}>
-                      +$200
+                      +£200
                     </span>
                   </div>
                   <div className="flex items-center justify-between p-4 bg-white/80 rounded-lg shadow-sm border border-gray-200">
