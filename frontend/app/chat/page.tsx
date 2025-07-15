@@ -9,7 +9,7 @@ import {
 } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Brain, Menu, Sparkles } from "lucide-react";
-import ParticleBackground from "@/components/ParticleBackground";
+import NeuralNetwork from "@/components/NeuralNetwork";
 import ChatSidebar from "@/components/ChatSidebar";
 import ChatMessage from "@/components/ChatMessage";
 import ChatInput from "@/components/ChatInput";
@@ -185,7 +185,7 @@ export default function ChatPage() {
       animate="visible"
       className="min-h-screen bg-gradient-to-br from-white via-gray-50 to-blue-50/30 flex relative overflow-hidden"
     >
-      <ParticleBackground />
+      <NeuralNetwork />
 
       {/* Sidebar */}
       <ChatSidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
