@@ -14,6 +14,9 @@ import ChatSidebar from "@/components/ChatSidebar";
 import ChatMessage from "@/components/ChatMessage";
 import ChatInput from "@/components/ChatInput";
 
+const API_BASE_URL =
+  process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:8000";
+
 interface Message {
   id: string;
   content: string;
@@ -51,19 +54,6 @@ const containerVariants = {
   },
 };
 
-const headerVariants = {
-  hidden: { y: -100, opacity: 0 },
-  visible: {
-    y: 0,
-    opacity: 1,
-    transition: {
-      type: "spring",
-      stiffness: 100,
-      damping: 15,
-    },
-  },
-};
-
 export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>(initialMessages);
   const [isTyping, setIsTyping] = useState(false);
@@ -97,7 +87,10 @@ export default function ChatPage() {
     setIsTyping(true);
 
     try {
-      const response = await fetch("http://localhost:8000/generate", {
+      console.log("Sending request to:", `${API_BASE_URL}/generate`);
+      console.log("Request payload:", { prompt: content });
+
+      const response = await fetch(`${API_BASE_URL}/generate`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -107,11 +100,17 @@ export default function ChatPage() {
         }),
       });
 
+      console.log("Response status:", response.status);
+      console.log("Response ok:", response.ok);
+
       if (!response.ok) {
-        throw new Error("Failed to get response from server");
+        throw new Error(
+          `Failed to get response from server: ${response.status} ${response.statusText}`
+        );
       }
 
       const data = await response.json();
+      console.log("Response data:", data);
 
       // Simulate realistic typing delay based on response length
       const responseLength = data.ans?.length || 100;
