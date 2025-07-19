@@ -281,12 +281,6 @@ AI: "Based on your spending pattern, focus on local, seasonal produce to reduce 
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-- **Issues**: [GitHub Issues](https://github.com/Ayush272002/EcoTrack-AI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Ayush272002/EcoTrack-AI/discussions)
-- **Email**: support@carbonandsons.com
-
 ## 🌟 Acknowledgments
 
 - **Google Gemini AI** for powering our intelligent analysis
