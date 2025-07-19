@@ -6,7 +6,6 @@ COPY package*.json ./
 
 RUN npm install
 
-# Install TypeScript globally for building
 RUN npm install -g typescript
 
 COPY . .
