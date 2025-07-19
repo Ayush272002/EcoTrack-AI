@@ -287,5 +287,3 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 - **Next.js Team** for the amazing React framework
 - **Tailwind CSS** for the utility-first CSS framework
 - **Framer Motion** for smooth animations
-
----
